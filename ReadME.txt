@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+Exploratory Data Analysis
 
 This Repository contains various analysis done on different data set
 1. Data cleaning and Data pre-processing on two different datasets
